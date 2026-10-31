@@ -1,18 +1,18 @@
-\# Retail Sales \& Profitability Analysis
+Retail Sales \& Profitability Analysis
 
 
 
-\## Project Overview
+Project Overview
 
 This project analyzes retail sales data to understand sales performance, profitability, category contribution, and regional trends. It demonstrates an end-to-end data analytics workflow using Python, SQL, SQLite, and Power BI.
 
 
 
-\*\*Note:\*\* The dataset contains synthetic sample data created for portfolio and learning purposes. It does not represent actual business transactions.
+Note: The dataset contains synthetic sample data created for portfolio and learning purposes. It does not represent actual business transactions.
 
 
 
-\## Tools \& Technologies
+Tools \& Technologies
 
 \- Python – Dataset creation and data cleaning
 
@@ -28,7 +28,7 @@ This project analyzes retail sales data to understand sales performance, profita
 
 
 
-\## Project Workflow
+Project Workflow
 
 1\. Created a sample retail sales dataset.
 
@@ -50,7 +50,7 @@ This project analyzes retail sales data to understand sales performance, profita
 
 
 
-\## Key Metrics
+Key Metrics
 
 \- Total Orders: 10
 
@@ -60,7 +60,7 @@ This project analyzes retail sales data to understand sales performance, profita
 
 
 
-\## SQL Analysis
+SQL Analysis
 
 Four SQL scripts are included:
 
@@ -74,7 +74,7 @@ Four SQL scripts are included:
 
 
 
-\## Dashboard
+Dashboard
 
 The Power BI dashboard presents:
 
@@ -96,7 +96,7 @@ The Power BI dashboard presents:
 
 
 
-\## Project Structure
+Project Structure
 
 ```text
 
@@ -122,7 +122,7 @@ Retail-Sales-Profitability-Analysis/
 
 
 
-\## Skills Demonstrated
+Skills Demonstrated
 
 \- Data cleaning and validation
 
@@ -138,13 +138,13 @@ Retail-Sales-Profitability-Analysis/
 
 
 
-\## Limitations
+Limitations
 
 This is a small synthetic dataset designed to demonstrate analytical techniques. The findings should not be interpreted as real-world retail business conclusions.
 
 
 
-\## Future Improvements
+Future Improvements
 
 \- Expand the dataset with more records.
 
